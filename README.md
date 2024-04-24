@@ -1,5 +1,4 @@
-- 👋 Hi Devs,
-- I’m VelmaMweresa
+- 👋 Hi Devs,I’m VelmaMweresa
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me www.linkedin.com/in/velma-mweresa-4210a719a
